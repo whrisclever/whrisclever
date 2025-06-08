@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whrisclever
 - 👀 I’m interested in history,Geography and computer,but Troy is most good than me in computer. 
 - 🌱 I’m currently learning Level 5
-- 💞️ I’m looking to collaborate on AI agent table pet(Xia Haibin's Program)
+- 💞️ I’m looking to collaborate on AI agent table pet(Xia Haibin's Programs)
 - 📫 How to reach me: You can call **************
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
